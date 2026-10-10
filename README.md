@@ -491,3 +491,4 @@ and release those objects. If you need to use autoreleased objects, wrap your co
 When contributing code, please honour the code formatting style found in existing **MoltenVK** source code.
 In future, this will formally be enforced using `clang-format`.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
